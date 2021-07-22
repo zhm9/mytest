@@ -1,0 +1,10 @@
+.table {
+    width: 100vw;
+    height: 100vh;
+    padding: 20px;
+    background-color: rgb(194, 197, 199);
+}
+
+.table h1 {
+    text-align: left;
+}
